@@ -29,7 +29,7 @@ most prefered, expectancy is avg R multiple of your system
 
 System quality number=(expectancy/st.dev of r)*square root of no of traders
             
-          POSITION SIZING
+         
 
          EQUITY MODELS
 
