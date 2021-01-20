@@ -37,7 +37,4 @@ core equity model- subtracts intial allocation of each position
 Total equity model-sum value of cash plus open position
 reduced total equity model-combintion
 
-         POSITION SIZING MODELS
 
-1. UNITS PER FIXED AMT OF MONEY
-2.
