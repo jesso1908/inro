@@ -1,0 +1,43 @@
+                       VAN THARP
+
+       GOLDEN RULES OF TRADING
+
+ 1- Never open a position in market without knowing your intial risk.
+ 2- define profit or loss in your trades as some multiple of your intial risk.
+ 3- limit your losses to 1R or less
+ 4- make sure your profits on avg,are bigger than 1R
+         CUT YOUR LOSSES,LET YOUR PROFITS RUN....
+ 5- Understanding your trading system in terms of the mean(the average R) and the standard deviation(variability) of your
+    R-multiples
+ (expectancy- how much you will win on avg 1 dollar risk.
+ 6- design core objectives of ur trading.
+ 7- Practice proper position sizing.(how much should i invest?)
+ 8- Calculate your system quality number(how to position size your system)
+ 9- know the big picture
+
+        RISK AND R-MULTIPLES
+
+risk-how much you will lose per unit of your investments.
+risk is your intial risk per unit,not your total risk.
+expectancy= (avg win*probablity of winning - avg loss*probability of loss)/avg risk
+most prefered, expectancy is avg R multiple of your system
+
+   variabilty of R - how far from mean most samples are to likely to be.
+
+
+         EVALUATING QUALITY OF YOUR SYSTEM
+
+System quality number=(expectancy/st.dev of r)*square root of no of traders
+            
+          POSITION SIZING
+
+         EQUITY MODELS
+
+core equity model- subtracts intial allocation of each position
+Total equity model-sum value of cash plus open position
+reduced total equity model-combintion
+
+         POSITION SIZING MODELS
+
+1. UNITS PER FIXED AMT OF MONEY
+2.
